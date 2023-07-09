@@ -11,3 +11,4 @@ public class NewStart : MonoBehaviour {
         SceneManager.LoadScene(now_Scene.name);
     }
 }
+public static void main (String args[]){}
